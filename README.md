@@ -1,6 +1,13 @@
  # adnotium
 A place to organize my thoughts about free self-hosted comments for static pages
 
+Free as in both 
+- free speech 
+- free soda
+
+
+self-hosted comments for static pages
+
 
  I love static websites. Especially when they don't require JS for their core functionality. I must be a wierdo right ? :alien:
  
