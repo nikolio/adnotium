@@ -1,5 +1,11 @@
- ## adnotium
+ # adnotium
 A place to organize my thoughts about free self-hosted comments for static pages
 
 
-# I love static websites. Especially when they don't require JS for their functionality [You don't really need Javascript](http://youmightnotneedjs.com/) and it's daddy about [Jquery](https://youmightnotneedjquery.com/)
+ I love static websites. Especially when they don't require JS for their core functionality. I must be a wierdo right ? :alien:
+ 
+ Here are some rants people love to hate :smiley:
+ 
+ [You don't really need Javascript](http://youmightnotneedjs.com/) and it's daddy about [Jquery](https://youmightnotneedjquery.com/)
+
+And the really great [Luke Smith's](https://lukesmith.xyz/) soy dev rants [Here](https://odysee.com/@Luke:7/a-demonstration-of-modern-web-bloat:f) and [here](https://odysee.com/@Luke:7/the-war-against-web-bloat-continues...:a)
