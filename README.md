@@ -1,4 +1,6 @@
  # adnotium
+ 
+ 
 A place to organize my thoughts about free self-hosted comments for static pages
 
 Free as in both 
