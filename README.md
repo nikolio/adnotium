@@ -8,4 +8,4 @@ A place to organize my thoughts about free self-hosted comments for static pages
  
  [You don't really need Javascript](http://youmightnotneedjs.com/) and it's daddy about [Jquery](https://youmightnotneedjquery.com/)
 
-And the really great [Luke Smith's](https://lukesmith.xyz/) soy dev rants [Here](https://odysee.com/@Luke:7/a-demonstration-of-modern-web-bloat:f) and [here](https://odysee.com/@Luke:7/the-war-against-web-bloat-continues...:a)
+And the really great [Luke Smith's](https://lukesmith.xyz/) soy dev  video rants [Here](https://odysee.com/@Luke:7/a-demonstration-of-modern-web-bloat:f) and [here](https://odysee.com/@Luke:7/the-war-against-web-bloat-continues...:a)
