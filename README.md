@@ -20,7 +20,7 @@ And the really great [Luke Smith's](https://lukesmith.xyz/) soy dev  video rants
 
 ## Ideas about retreiving (& filtering perhaps) e-mails
 
-- [How Imap works!](https://www.nylas.com/blog/nylas-imap-therefore-i-am/)
+- [How Imap works! - by Nylas](https://www.nylas.com/blog/nylas-imap-therefore-i-am/)
 
 - fetchmail [[2] - Config](https://gist.github.com/iharsuvorau/45a078ecb597eb916fdf) [[3] - Config](https://calomel.org/fetchmailrc.html) [[4] - Config](https://serverfault.com/questions/45081/is-there-a-way-to-filter-mails-in-remote-imap-account)
 
