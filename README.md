@@ -18,7 +18,7 @@ And the really great [Luke Smith's](https://lukesmith.xyz/) soy dev  video rants
 
 ---
 
-Ideas about retreiving (& filtering perhaps) e-mails
+##Ideas about retreiving (& filtering perhaps) e-mails
 
 - [imap with curl @debian-administration.org](http://web.archive.org/web/20161130134317/https://debian-administration.org/article/726/Performing_IMAP_queries_via_curl)
 - [Performing IMAP queries via curl - Google search](https://google.com/search?q=Performing+IMAP+queries+via+curl)
@@ -29,12 +29,14 @@ Ideas about retreiving (& filtering perhaps) e-mails
 
 - [fdm](https://github.com/nicm/fdm/blob/master/MANUAL)
 
--[OfflineImap](http://www.offlineimap.org/)
+- [OfflineImap](http://www.offlineimap.org/)
 
 - [Sieve](https://en.wikipedia.org/wiki/Sieve_(mail_filtering_language))
 
 [Executing external commands  for searching specific e-mails (with awk/sed) in node](https://stackoverflow.com/questions/20643470/execute-a-command-line-binary-with-node-js)
 
+
+## [OpenWrt]
 
 [Receiving mail in openwrt](https://forum.openwrt.org/t/router-having-an-e-mail-address-to-receive-emails-and-act-upon-it/3383)
 
