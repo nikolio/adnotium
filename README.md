@@ -22,16 +22,20 @@ And the really great [Luke Smith's](https://lukesmith.xyz/) soy dev  video rants
 
 - [How Imap works!](https://www.nylas.com/blog/nylas-imap-therefore-i-am/)
 
+- fetchmail [[2] - Config](https://gist.github.com/iharsuvorau/45a078ecb597eb916fdf) [[3] - Config](https://calomel.org/fetchmailrc.html) [[4] - Config](https://serverfault.com/questions/45081/is-there-a-way-to-filter-mails-in-remote-imap-account)
+
 - [imap with curl @debian-administration.org](http://web.archive.org/web/20161130134317/https://debian-administration.org/article/726/Performing_IMAP_queries_via_curl)
 - [Performing IMAP queries via curl - Google search](https://google.com/search?q=Performing+IMAP+queries+via+curl)
 
-- [IMAPFilter](https://serverfault.com/a/45111) [2 - Github repo](https://github.com/lefcha/imapfilter)
+- [IMAPFilter](https://serverfault.com/a/45111) [[2] - Github repo](https://github.com/lefcha/imapfilter)
 
 - [MailDrop](https://en.wikipedia.org/wiki/Maildrop)
 
-- [fdm](https://github.com/nicm/fdm/blob/master/MANUAL)
+- [fdm](https://en.wikipedia.org/wiki/Fdm_(software)) [manual](https://github.com/nicm/fdm/blob/master/MANUAL)
 
-- [OfflineImap](http://www.offlineimap.org/)
+- [imap-filter (In ruby)](https://github.com/flajann2/imap-filter/blob/master/README.org)
+
+- [OfflineImap](http://www.offlineimap.org/) [[2] - Config](https://elric80.wordpress.com/mutt-2/offlineimap-and-msmtp/)
 
 - [Sieve](https://en.wikipedia.org/wiki/Sieve_(mail_filtering_language))
 
