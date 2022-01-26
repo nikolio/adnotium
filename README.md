@@ -18,7 +18,7 @@ And the really great [Luke Smith's](https://lukesmith.xyz/) soy dev  video rants
 
 ---
 
-## Ideas about retreiving (& filtering perhaps) e-mails
+## Ideas about retrieving (& filtering perhaps) e-mails
 
 - [How Imap works! - by Nylas](https://www.nylas.com/blog/nylas-imap-therefore-i-am/)
 
