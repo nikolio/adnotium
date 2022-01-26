@@ -20,6 +20,8 @@ And the really great [Luke Smith's](https://lukesmith.xyz/) soy dev  video rants
 
 ##Ideas about retreiving (& filtering perhaps) e-mails
 
+- [How Imap works!](https://www.nylas.com/blog/nylas-imap-therefore-i-am/)
+
 - [imap with curl @debian-administration.org](http://web.archive.org/web/20161130134317/https://debian-administration.org/article/726/Performing_IMAP_queries_via_curl)
 - [Performing IMAP queries via curl - Google search](https://google.com/search?q=Performing+IMAP+queries+via+curl)
 
