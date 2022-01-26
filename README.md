@@ -15,3 +15,10 @@ Free as in both
  [You don't really need Javascript](http://youmightnotneedjs.com/) and it's daddy about [Jquery](https://youmightnotneedjquery.com/)
 
 And the really great [Luke Smith's](https://lukesmith.xyz/) soy dev  video rants [Here](https://odysee.com/@Luke:7/a-demonstration-of-modern-web-bloat:f) and [here](https://odysee.com/@Luke:7/the-war-against-web-bloat-continues...:a)
+
+[curl imap @debian-administration.org](http://web.archive.org/web/20161130134317/https://debian-administration.org/article/726/Performing_IMAP_queries_via_curl)
+- [Performing IMAP queries via curl - Google search](google.com/search?q=Performing+IMAP+queries+via+curl)
+
+[Receiving mail in openwrt](https://forum.openwrt.org/t/router-having-an-e-mail-address-to-receive-emails-and-act-upon-it/3383)
+[uw-imap in openwrt](https://openwrt.org/packages/pkgdata/uw-imap)
+
