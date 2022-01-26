@@ -8,7 +8,7 @@ Free as in both
 
 ---
 
- I love static websites. Especially when they don't require JS for their core functionality. I must be a wierdo right ? :alien:
+ I love static websites. Especially when they don't require JS for their core functionality. I must be a weirdo right ? :alien:
  
  Here are some rants people love to hate :smiley:
  
@@ -21,6 +21,10 @@ And the really great [Luke Smith's](https://lukesmith.xyz/) soy dev  video rants
 - [curl imap @debian-administration.org](http://web.archive.org/web/20161130134317/https://debian-administration.org/article/726/Performing_IMAP_queries_via_curl)
 - [Performing IMAP queries via curl - Google search](https://google.com/search?q=Performing+IMAP+queries+via+curl)
 
+
+
+
+
 [Receiving mail in openwrt](https://forum.openwrt.org/t/router-having-an-e-mail-address-to-receive-emails-and-act-upon-it/3383)
 [uw-imap in openwrt](https://openwrt.org/packages/pkgdata/uw-imap)
-
+[X-Mail](https://openwrt.org/docs/guide-user/services/email/xmail)
