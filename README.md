@@ -36,7 +36,7 @@ And the really great [Luke Smith's](https://lukesmith.xyz/) soy dev  video rants
 [Executing external commands  for searching specific e-mails (with awk/sed) in node](https://stackoverflow.com/questions/20643470/execute-a-command-line-binary-with-node-js)
 
 
-## [OpenWrt]
+## OpenWrt (receiving emails)
 
 [Receiving mail in openwrt](https://forum.openwrt.org/t/router-having-an-e-mail-address-to-receive-emails-and-act-upon-it/3383)
 
