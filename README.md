@@ -33,7 +33,7 @@ The whole "system" should be seperated into two parts:
 
 * The fetching part that downloads the posted comments from an imap email account and puts them into a staging folder. You move the approved comments from the staging folder to folder called accepted.
  
-* The site rebuilding & uploading: When you run the command to build your website, the comments from the acccepted folder get included and built in the relevant post. Additionally you could have sth like a cron job to rebuild the website with any new accepted comments automatically!
+* The site rebuilding & deploying/uploading: When you run the command to build your website, the comments from the acccepted folder get included and built in the relevant post. Additionally you could have sth like a cron job to rebuild the website with any new accepted comments automatically!
 
 It can be done asynchronously. So you do not need to give up privacy, convenience, or money and attention making sure backend servers and subcriptions are up and running! yay! :smiley:
 
