@@ -4,7 +4,7 @@ A place to organize my thoughts about free self-hosted comments for static pages
 
 ---
 
-Idea: A portable and free way of managing comments for static sites without privacy compromises (discus) or need to pay and maintain vm's
+Idea: A portable and free way of managing comments for static sites without privacy compromising external plugins (ie discus) or need to pay and maintain vm's
 
 The ideal script/utility should:
 * query email creds(user/pass) from an open keepass instance or other secure place.
