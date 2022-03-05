@@ -41,7 +41,7 @@ The great part in this concept, is that you can choose the email client of your 
 
 My initial thoughts is to use:
 
-* keepass for storing the email account username/password and use the KeePassRPC.
+* keepass for storing the email account username/password and use the KeePassRPC (the keepassrpc js client is heavily coupled with the kee extension, needs some work).
 * curl to downlod the emails containing the comments (filter based on email sender/subject)
 * a tool to sanitize comments with npm and save them to a staging folder as markdown files.
 
