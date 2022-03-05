@@ -35,7 +35,7 @@ The whole "system" should be seperated into two parts:
  
 * The site rebuilding & uploading: When you run the command to build your website, the comments from the acccepted folder get included and built in the relevant post. Additionally you could have sth like a cron job to rebuild the website with any new accepted comments automatically!
 
-It can be done asyncronously. So you do not need to give up privacy, convenience, or money and attention making sure backend servers and subcriptions are up and running! :smiley:
+It can be done asynchronously. So you do not need to give up privacy, convenience, or money and attention making sure backend servers and subcriptions are up and running! yay! :smiley:
 
 The great part in this concept, is that you can choose the email client of your choice. Setting up your comments this way could make yoube arch & os independent
 
