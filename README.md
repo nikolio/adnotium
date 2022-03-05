@@ -35,7 +35,20 @@ The whole "system" should be seperated into two parts:
  
 * The site rebuilding & uploading: When you run the command to build your website, the comments from the acccepted folder get included and built in the relevant post. Additionally you could have sth like a cron job to rebuild the website with any new accepted comments automatically!
 
-It can be done asyncronously. So you do not need to give up privacy, convinience, or money and attention making sure backend servers and subcriptions are up and running! :smiley:
+It can be done asyncronously. So you do not need to give up privacy, convenience, or money and attention making sure backend servers and subcriptions are up and running! :smiley:
+
+The great part in this concept, is that you can choose the email client of your choice. Setting up your comments this way could make yoube arch & os independent
+
+My initial thoughts is to use:
+
+* keepass for storing the email account username/password and use the KeePassRPC.
+* curl to downlod the emails containing the comments (filter based on email sender/subject)
+* a tool to sanitize comments with npm and save them to a staging folder as markdown files.
+
+
+* npm to include the markdown comments into their relevant articles when building/deploying
+
+My thoughts of doing this is with hugo & npm & ....
 
 ---
 
