@@ -4,9 +4,25 @@ A place to organize my thoughts about free self-hosted comments for static pages
 
 ---
 
+It should be free as in both 
+- free speech 
+- free soda
+
+---
+
+
+ I love static websites. Especially when they don't require JS for their core functionality. I must be a weirdo right ? :alien:
+ 
+ Here are some rants people love to hate :smiley:
+ 
+ [You don't really need Javascript](http://youmightnotneedjs.com/) and it's daddy about [Jquery](https://youmightnotneedjquery.com/)
+
+And the really great [Luke Smith's](https://lukesmith.xyz/) soy dev  video rants [here](https://odysee.com/@Luke:7/a-demonstration-of-modern-web-bloat:f) and [here](https://odysee.com/@Luke:7/the-war-against-web-bloat-continues...:a)
+
+---
 Idea: A portable and free way of managing comments for static sites without privacy compromising external plugins (ie discus) or need to pay and maintain server/vm's.
 
-What's the catch? You need an http form that is in your control!
+What's the catch? You (just) need an http form that is in your control!
 
 The ideal script/utility should:
 * query email creds(user/pass) from an open keepass instance or other secure place.
@@ -15,30 +31,14 @@ The ideal script/utility should:
 
 The whole "system" should be seperated into two parts: 
 
-* The fetching part that downloads the posted comments from an imap email account and puts it into a staging folder. You move the approved comments from the staging folder to folder called accepted.
+* The fetching part that downloads the posted comments from an imap email account and puts them into a staging folder. You move the approved comments from the staging folder to folder called accepted.
  
 * The site rebuilding & uploading: When you run the command to build your website, the comments from the acccepted folder get included and built in the relevant post. Additionally you could have sth like a cron job to rebuild the website with any new accepted comments automatically!
 
-It can be done asyncronously. So you do not need to give up privacy, convinience, or money and attention making sure backend servers and subcriptions are up and running!
+It can be done asyncronously. So you do not need to give up privacy, convinience, or money and attention making sure backend servers and subcriptions are up and running! :smiley:
 
 ---
 
-
-Free as in both 
-- free speech 
-- free soda
-
----
-
- I love static websites. Especially when they don't require JS for their core functionality. I must be a weirdo right ? :alien:
- 
- Here are some rants people love to hate :smiley:
- 
- [You don't really need Javascript](http://youmightnotneedjs.com/) and it's daddy about [Jquery](https://youmightnotneedjquery.com/)
-
-And the really great [Luke Smith's](https://lukesmith.xyz/) soy dev  video rants [Here](https://odysee.com/@Luke:7/a-demonstration-of-modern-web-bloat:f) and [here](https://odysee.com/@Luke:7/the-war-against-web-bloat-continues...:a)
-
----
 
 ## Ideas about retrieving (& filtering perhaps) e-mails
 
