@@ -10,8 +10,16 @@ What's the catch? You need an http form that is in your control!
 
 The ideal script/utility should:
 * query email creds(user/pass) from an open keepass instance or other secure place.
-* login to the email and search for posted forms
-* sanitize and post with hugo
+* login to the email and search & download posted forms
+* sanitize comment and post with hugo
+
+The whole "system" should be seperated into two parts: 
+
+* The fetching part that downloads the posted comments from an imap email account and puts it into a staging folder. You move the approved comments from the staging folder to folder called accepted.
+ 
+* The site rebuilding & uploading: When you run the command to build your website, the comments from the acccepted folder get included and built in the relevant post. Additionally you could have sth like a cron job to rebuild the website with any new accepted comments automatically!
+
+It can be done asyncronously. So you do not need to give up privacy, convinience, or money and attention making sure backend servers and subcriptions are up and running!
 
 ---
 
