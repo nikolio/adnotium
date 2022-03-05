@@ -2,6 +2,18 @@
 
 A place to organize my thoughts about free self-hosted comments for static pages
 
+---
+
+Idea: A portable and free way managing comments for static sites without privacy compromises (discus) or need to pay and maintain vm's
+
+The ideal script/utility should:
+* query email creds(user/pass) from an open keepass instance or other secure place.
+* login to the email and search for posted forms
+* sanitize and post with hugo
+
+---
+
+
 Free as in both 
 - free speech 
 - free soda
@@ -50,3 +62,21 @@ And the really great [Luke Smith's](https://lukesmith.xyz/) soy dev  video rants
 [uw-imap in openwrt](https://openwrt.org/packages/pkgdata/uw-imap)
 
 [X-Mail](https://openwrt.org/docs/guide-user/services/email/xmail)
+
+## Managing email login credentials with keepass
+
+[Keepass related projects](https://awesomeopensource.com/projects/keepass)
+
+[KeepassRPC arch wiki part](https://wiki.archlinux.org/title/KeePass#KeePassRPC_and_Kee)
+
+### Autotype
+
+[Noris ssh autotype gui](https://devops.norris.hu/2016/12/27/start-ssh-session-in-linux-gui-from-keepass-by-auto-type/)
+
+[Add new entry with autotype](https://devops.norris.hu/2016/11/10/keepass-add-new-string-field-use-it-with-auto-type-feature/)
+
+## Input Sanitization
+
+[Html Sanitizer](https://stackoverflow.com/questions/1637275/simple-html-sanitizer-in-javascript)
+
+
