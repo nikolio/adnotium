@@ -20,7 +20,7 @@ It should be free as in both
 And the really great [Luke Smith's](https://lukesmith.xyz/) soy dev  video rants [here](https://odysee.com/@Luke:7/a-demonstration-of-modern-web-bloat:f) and [here](https://odysee.com/@Luke:7/the-war-against-web-bloat-continues...:a)
 
 ---
-Idea: A portable and free way of managing comments for static sites without privacy compromising external plugins (ie discus) or need to pay and maintain server/vm's.
+To my Idea: A portable and free way of managing comments for static sites without privacy compromising external plugins (ie discus) or need to pay and maintain server/vm's.
 
 What's the catch? You (just) need an http form that is in your control!
 
