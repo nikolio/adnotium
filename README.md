@@ -32,7 +32,7 @@ The first part:
 
 The second part:
 
-Or better called the script/utility part should:
+Or better called the script/utility, that should:
 * query email creds(user/pass) from an open keepass instance or other secure place.
 * login to an email box, search & download posted forms that include comments/
 * sanitize comment and post with hugo
