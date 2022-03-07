@@ -28,13 +28,13 @@ The ideal system/utility should be in two parts.
 
 The first part:
 
-* an html form that users would submit their comments for a given static site article. It would use vanila js to make the http post by using fetch
+* an html form that users would submit their comments with, for a given static site article. It would use vanila js to make the http post json response using fetch, or by simple nojs http form post browser request.
 
 The second part:
 
 Or better called the script/utility, that should:
 * query email creds(user/pass) from an open keepass instance or other secure place.
-* login to an email box, search & download emails, containing the comments from http posted forms/
+* login to an email box, search & download emails, containing the comments from http posted forms
 * sanitize comment and post with hugo
 
 The second part, should be further seperated into two "subsystems": 
