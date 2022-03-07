@@ -28,7 +28,7 @@ The ideal system/utility should be in two parts.
 
 The first part:
 
-* an html form that users would submit their comments with, for a given static site article. It would use vanila js to make the http post json response using fetch, or by simple nojs http form post browser request.
+* an html form that users would submit their comments with, for a given static site article. It would use vanilla js to make the http post json response using fetch, or by simple nojs http form post browser request.
 
 The second part:
 
