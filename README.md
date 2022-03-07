@@ -52,6 +52,24 @@ My thoughts of doing this is with hugo & npm & ....
 
 ---
 
+### curl and imap
+
+[Curl imap examples](https://busylog.net/test-imap-with-curl-imap-example/)
+
+[Imap commands note by busylog](https://busylog.net/telnet-imap-commands-note/)
+
+[imap commands](https://www.atmail.com/blog/imap-commands/)
+
+[Advanced Imap](https://www.atmail.com/blog/advanced-imap/)
+
+[imap with telnet](https://support.moonpoint.com/network/email/telnet-imap.php)
+
+[telnet emails](https://mediatemple.net/community/products/dv/204404584/sending-or-viewing-emails-using-telnet)
+
+[netcat](https://www.varonis.com/blog/netcat-commands)
+
+[Imap 101 by @mail](https://www.atmail.com/blog/imap-101-manual-imap-sessions/)
+
 
 ## Ideas about retrieving (& filtering perhaps) e-mails
 
