@@ -24,9 +24,17 @@ To my Idea: A portable and free way of managing comments for static sites withou
 
 What's the catch? You (just) need an http form that is in your control!
 
-The ideal script/utility should:
+The ideal system/utility should be in two parts.
+
+The first part:
+
+* an html form that users would submit their comments for a given static site article. It would use vanila js to make the http post by using fetch
+
+The second part:
+
+Or better called the script/utility part should:
 * query email creds(user/pass) from an open keepass instance or other secure place.
-* login to the email and search & download posted forms
+* login to an email box, search & download posted forms that include comments/
 * sanitize comment and post with hugo
 
 The whole "system" should be seperated into two parts: 
