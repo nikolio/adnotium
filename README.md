@@ -34,10 +34,10 @@ The second part:
 
 Or better called the script/utility, that should:
 * query email creds(user/pass) from an open keepass instance or other secure place.
-* login to an email box, search & download posted forms that include comments/
+* login to an email box, search & download emails, containing the comments from http posted forms/
 * sanitize comment and post with hugo
 
-The whole "system" should be seperated into two parts: 
+The second part, should be further seperated into two "subsystems": 
 
 * The fetching part that downloads the posted comments from an imap email account and puts them into a staging folder. You move the approved comments from the staging folder to folder called accepted.
  
