@@ -70,7 +70,7 @@ runCondition: shell-async, node-async
 
 email address: email@somedomain.tld
 
-email/imap message handling setting: read, unread, comments
+email/imap message handling setting: read, unread, comments, receive-purge
 
 imap-server: imap.somedomain.tld The imap server domain.
 
