@@ -35,7 +35,7 @@ The second part:
 Or better called the script/utility, that should:
 * query email creds(user/pass) from an open keepass instance or other secure place.
 * login to an email box, search & download emails, containing the comments from http posted forms
-* sanitize comment and post with hugo
+* sanitize comment and post with hugo or the static site builder of your choice
 
 The second part, should be further seperated into two "subsystems": 
 
@@ -57,6 +57,12 @@ My initial thoughts is to use:
 * npm to include the markdown comments into their relevant articles when building/deploying
 
 My thoughts of doing this is with hugo & npm & ....
+
+Yaml Config specs:
+
+email address
+
+email/imap message handling setting: read, unread, comments
 
 ---
 
