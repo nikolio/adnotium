@@ -58,7 +58,13 @@ My initial thoughts is to use:
 
 My thoughts of doing this is with hugo & npm & ....
 
-Yaml Config settings (interface):
+Hugo/Whatever static builder Config:
+
+email: email@somedomain.tld Use some privacy email forwarding service here such as 33mail
+method: form-post, service (template)
+pgp-key: your pgp/gpg key to encrypt the senders email
+
+Adnotium Yaml Config settings (interface):
 
 runCondition: shell-async, node-async, node
 
