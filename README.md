@@ -60,9 +60,17 @@ My thoughts of doing this is with hugo & npm & ....
 
 Yaml Config specs:
 
-email address
+runCondition: shell-async, node-async, node
+
+email address: email@somedomain.tld
 
 email/imap message handling setting: read, unread, comments
+
+imap-server: imap.somedomain.tld The imap server domain.
+
+This eventually will be dropped and resolved via https://autoconfig.thunderbird.net/v1.1/gmail.com The resulting domain could be saved to a file for the fetch shell script fetch_email_comments.sh
+
+
 
 ---
 
