@@ -66,7 +66,7 @@ Hugo/Whatever static builder Config:
 
 Adnotium Yaml Config settings (interface):
 
-runCondition: shell-async, node-async, node
+runCondition: shell-async, node-async
 
 email address: email@somedomain.tld
 
