@@ -58,7 +58,7 @@ My initial thoughts is to use:
 
 My thoughts of doing this is with hugo & npm & ....
 
-Yaml Config specs:
+Yaml Config settings (interface):
 
 runCondition: shell-async, node-async, node
 
@@ -69,6 +69,12 @@ email/imap message handling setting: read, unread, comments
 imap-server: imap.somedomain.tld The imap server domain.
 
 This eventually will be dropped and resolved via https://autoconfig.thunderbird.net/v1.1/gmail.com The resulting domain could be saved to a file for the fetch shell script fetch_email_comments.sh
+
+
+incoming-comments: the dir location to save the comments 
+
+accepted-comments: the dir location you move the comments you approve
+
 
 
 
