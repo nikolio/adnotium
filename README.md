@@ -83,7 +83,7 @@ This eventually will be dropped and resolved via https://autoconfig.thunderbird.
 incoming-comments: the dir location to save the comments 
 
 accepted-comments: the dir location you move the comments you approve
-
+The accepted comment should be deleted after it has been built into the site
 
 
 
