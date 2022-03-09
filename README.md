@@ -58,6 +58,9 @@ My initial thoughts is to use:
 
 My thoughts of doing this is with hugo & npm & ....
 
+---
+## Site & node app config options
+
 Hugo/Whatever static builder site Config settings:
 
 - email: email@somedomain.tld Use some privacy email forwarding service here such as 33mail
