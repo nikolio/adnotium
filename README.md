@@ -47,6 +47,8 @@ It can be done asynchronously. So you do not need to give up privacy, convenienc
 
 The great part in this concept, is that you can choose the email client of your choice. Setting up your comments this way could make yoube arch & os independent
 
+It could be offered as a docker image, as well.
+
 My initial thoughts is to use:
 
 * keepass for storing the email account username/password and use the KeePassRPC (the keepassrpc js client is heavily coupled with the kee extension, needs some work).
