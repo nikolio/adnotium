@@ -62,7 +62,7 @@ Hugo/Whatever static builder Config:
 
 - email: email@somedomain.tld Use some privacy email forwarding service here such as 33mail
 - method: form-post, service (template)
-- pgp-key: your pgp/gpg key to encrypt the commenter's email. If pgp-key is ommited the commenter's email address will be sha512sum hashed
+- pgp-key: your pgp/gpg key to encrypt the commenter's email. If pgp-key is ommited the commenter's email address will be sha512sum hashed. Use of [OpenPGPJs](https://openpgpjs.org/)
 
 Adnotium Yaml Config settings (interface):
 
