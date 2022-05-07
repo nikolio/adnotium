@@ -3,7 +3,7 @@
 :love_letter: A place to organize my thoughts about free self-hosted comments for static pages
 
 ---
-:exclamation: Not production ready
+:exclamation: Not production ready :x:
 
 
 ---
