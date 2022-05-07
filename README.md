@@ -43,7 +43,7 @@ My thoughts of doing this is with hugo & npm & ....
 
 It could be offered as a docker image, as well.
 
-## :thought_balloon: Architecture
+## :thought_balloon:  System Architecture
 
 The ideal system/utility should be in two parts.
 
