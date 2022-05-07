@@ -34,7 +34,7 @@ The first part html/css/js comment ui form (as hugo partial):
 
 * an html form that users would submit their comments with, for a given static site article. It would use vanilla js to post the json response by making a simple http post using fetch, or by a nojs http form submit post from the browser. It would use a form url.
 
-The second part (shell/nodejs):
+The second part (sh script/nodejs):
 
 Or better called the script/utility, that should:
 * query email creds(user/pass) from an open keepass instance or other secure place.
