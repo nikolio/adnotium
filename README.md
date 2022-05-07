@@ -24,7 +24,9 @@ It should be free as in both
 And the really great [Luke Smith's](https://lukesmith.xyz/) soy dev  video rants [here](https://odysee.com/@Luke:7/a-demonstration-of-modern-web-bloat:f) and [here](https://odysee.com/@Luke:7/the-war-against-web-bloat-continues...:a)
 
 ---
-To my Idea: A portable and free way of managing comments for static sites without privacy compromising external plugins (ie disqus) or need to pay and maintain server/vm's, such as heroku or other (paid) ones.
+
+## :sparkles: To my Idea: 
+A portable and free way of managing comments for static sites without privacy compromising external plugins (ie disqus) or need to pay and maintain server/vm's, such as heroku or other (paid) ones.
 
 What's the catch? You (just) need an http form that is in your control! Pretty easy to find in this day and age!
 
@@ -36,9 +38,10 @@ My initial thoughts is to use:
 * npm to include the markdown comments into their relevant articles when building/deploying
 
 My thoughts of doing this is with hugo & npm & ....
+
 It could be offered as a docker image, as well.
 
-## Architecture
+## :thought_balloon: Architecture
 
 The ideal system/utility should be in two parts.
 
