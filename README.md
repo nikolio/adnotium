@@ -25,7 +25,9 @@ And the really great [Luke Smith's](https://lukesmith.xyz/) soy dev  video rants
 
 ---
 
-## :sparkles: To my Idea: 
+But I digress :expressionless:
+
+## :sparkles: :boom: To my Idea: 
 A portable and free way of managing comments for static sites without privacy compromising external plugins (ie disqus) or need to pay and maintain server/vm's, such as heroku or other (paid) ones.
 
 What's the catch? You (just) need an http form that is in your control! Pretty easy to find in this day and age!
