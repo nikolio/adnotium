@@ -28,6 +28,18 @@ To my Idea: A portable and free way of managing comments for static sites withou
 
 What's the catch? You (just) need an http form that is in your control! Pretty easy to find in this day and age!
 
+My initial thoughts is to use:
+
+* keepass for storing the email account username/password and use the KeePassRPC (the keepassrpc js client is heavily coupled with the kee extension, needs some work).
+* curl to downlod the emails containing the comments (filter based on email sender/subject)
+* a tool to sanitize comments with npm and save them to a staging folder as markdown files.
+* npm to include the markdown comments into their relevant articles when building/deploying
+
+My thoughts of doing this is with hugo & npm & ....
+It could be offered as a docker image, as well.
+
+##Architecture
+
 The ideal system/utility should be in two parts.
 
 The first part html/css/js comment ui form (as hugo partial):
@@ -50,19 +62,6 @@ The second part, should be further seperated into two "subsystems":
 It can be done asynchronously. So you do not need to give up privacy, convenience, or money and attention making sure backend servers and subcriptions are up and running! yay! :smiley:
 
 The great part in this concept, is that you can choose the email client of your choice. Setting up your comments this way could make yoube arch & os independent
-
-It could be offered as a docker image, as well.
-
-My initial thoughts is to use:
-
-* keepass for storing the email account username/password and use the KeePassRPC (the keepassrpc js client is heavily coupled with the kee extension, needs some work).
-* curl to downlod the emails containing the comments (filter based on email sender/subject)
-* a tool to sanitize comments with npm and save them to a staging folder as markdown files.
-
-
-* npm to include the markdown comments into their relevant articles when building/deploying
-
-My thoughts of doing this is with hugo & npm & ....
 
 ---
 ## Site & node app config options
