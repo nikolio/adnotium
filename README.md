@@ -99,6 +99,8 @@ The accepted comment should be deleted after it has been built into the site
 
 ---
 
+## :books: My dev notes
+
 ### curl and imap
 
 [Curl imap examples](https://busylog.net/test-imap-with-curl-imap-example/)
