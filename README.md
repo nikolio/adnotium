@@ -1,6 +1,6 @@
  # adnotium [![](https://img.icons8.com/ios-glyphs/30/000000/play--v1.png)](https://github.com/nikolio/adnotium/blob/main/adnotium.mp3)
 
-:love_letter: A place to organize my thoughts about free self-hosted comments for static pages
+:black_nib: A place to organize my thoughts about free self-hosted comments for static pages
 
 ---
 :exclamation: Not production ready :x:
@@ -67,7 +67,7 @@ It can be done asynchronously. So you do not need to give up privacy, convenienc
 The great part in this concept, is that you can choose the email client of your choice. Setting up your comments this way could make yoube arch & os independent
 
 ---
-## Site & node app config options
+## :snowflake: Site & node app config options
 
 Hugo/Whatever static builder site Config settings:
 
