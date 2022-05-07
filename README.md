@@ -38,7 +38,7 @@ My initial thoughts is to use:
 My thoughts of doing this is with hugo & npm & ....
 It could be offered as a docker image, as well.
 
-##Architecture
+## Architecture
 
 The ideal system/utility should be in two parts.
 
