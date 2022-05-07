@@ -1,6 +1,10 @@
  # adnotium [![](https://img.icons8.com/ios-glyphs/30/000000/play--v1.png)](https://github.com/nikolio/adnotium/blob/main/adnotium.mp3)
 
-A place to organize my thoughts about free self-hosted comments for static pages
+:love_letter: A place to organize my thoughts about free self-hosted comments for static pages
+
+---
+:exclamation: Not production ready
+---
 
 ---
 
@@ -11,7 +15,7 @@ It should be free as in both
 ---
 
 
- I love static websites. Especially when they don't require JS for their core functionality. I must be a weirdo right ? :alien:
+ I love static websites. Especially when they don't require JS for their core functionality. I must be a weirdo right :question: :alien:
  
  Here are some rants people love to hate :smiley:
  
