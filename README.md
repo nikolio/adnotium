@@ -1,4 +1,4 @@
- # adnotium [![](https://img.icons8.com/ios-glyphs/30/000000/play--v1.png)](https://github.com/nikolio/adnotium/blob/main/adnotium.mp3)
+ # :speech_balloon: :mailbox_with_mail: adnotium [![](https://img.icons8.com/ios-glyphs/30/000000/play--v1.png)](https://github.com/nikolio/adnotium/blob/main/adnotium.mp3)
 
 :black_nib: A place to organize my thoughts about free self-hosted comments for static pages
 
