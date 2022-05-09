@@ -128,6 +128,8 @@ The accepted comment should be deleted after it has been built into the site
 
 - [Performing IMAP queries via curl - Google search](https://google.com/search?q=Performing+IMAP+queries+via+curl)
 
+- [base64 in awk](https://archive.ph/R0nas)
+
 - [fetchmail](https://en.wikipedia.org/wiki/Fetchmail) [[2] - Config](https://gist.github.com/iharsuvorau/45a078ecb597eb916fdf) [[3] - Config](https://calomel.org/fetchmailrc.html) [[4] - Config](https://serverfault.com/questions/45081/is-there-a-way-to-filter-mails-in-remote-imap-account)
 
 - [IMAPFilter](https://serverfault.com/a/45111) [[2] - Github repo](https://github.com/lefcha/imapfilter)
