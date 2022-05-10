@@ -96,7 +96,7 @@ accepted-comments: the dir location you move the comments you approve
 The accepted comment should be deleted after it has been built into the site
 
 <details>
-<summary> <b>Note</b> </summary>
+<summary> ## Note </summary>
 Content
 </details>
 
