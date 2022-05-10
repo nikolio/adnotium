@@ -97,7 +97,7 @@ The accepted comment should be deleted after it has been built into the site
 
 <details>
 <summary> ##Note </summary>
-## Content
+-Content
 </details>
 
 
