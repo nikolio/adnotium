@@ -101,6 +101,14 @@ The accepted comment should be deleted after it has been built into the site
 
 ## :books: My dev notes
 
+[yaml parser in sh](https://github.com/mrbaseman/parse_yaml)
+
+[parse inis in sh](https://github.com/wallyhall/shini)
+
+[parse toml in bash](https://github.com/hyperupcall/bash-toml)
+
+[yaml parser with awk](https://unix.stackexchange.com/a/633740)
+
 ### curl and imap
 
 [Curl imap examples](https://busylog.net/test-imap-with-curl-imap-example/)
