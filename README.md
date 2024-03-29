@@ -30,7 +30,7 @@ But I digress :expressionless:
 ## :sparkles: :boom: To my Idea: 
 A portable and free way of managing comments for static sites without privacy compromising external plugins (ie disqus) or need to pay and maintain server/vm's, such as heroku or other (paid) ones.
 
-What's the catch? You (just) need an http form that is in your control! Pretty easy to find in this day and age!
+What's the catch? You (just _might_) need an http form that is in your control! Pretty easy to find in this day and age!
 
 My initial thoughts is to use:
 
@@ -47,10 +47,11 @@ It could be offered as a docker image, as well.
 
 The ideal system/utility should be in two parts.
 
-The first part html/css/js comment ui form (as hugo partial):
+The first part html/css/js comment ui form (as hugo partial)an html form that users would submit their comments with, for a given static site article
 
-* an html form that users would submit their comments with, for a given static site article. It would use vanilla js to post the json response by making a simple http post using fetch, or by a nojs http form submit post from the browser. It would use a form url.
-  * Som
+* It would use vanilla js to post the json response by making a simple http post using fetch, or by a nojs http form submit post from the browser. It would _require_ a form url to email service for such.
+  
+* Sending an email (without using any smtp server) from the browser to the email's destination smtp server. We don't really care if it lands in the spam folder. Use of fingerprinting ip/browser/device/etc to prevent abuse when receiving/filtering, that would be auto discarded if the received message is not abusive. This way we don't need the "cloud"/someone else computer for receiving the comments.
 
 The second part (sh script/nodejs):
 
