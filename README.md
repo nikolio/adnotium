@@ -37,7 +37,7 @@ My initial thoughts is to use:
 * keepass for storing the email account username/password and use the KeePassRPC (the keepassrpc js client is heavily coupled with the kee extension, needs some work).
 * curl to downlod the emails containing the comments (filter based on email sender/subject)
 * a tool to sanitize comments with npm and save them to a staging folder as markdown files.
-* npm to include the markdown comments into their relevant articles when building/deploying
+* npm to include the markdown comments into their relevant articles when building/deploying website.
 
 My thoughts of doing this is with hugo & npm & ....
 
@@ -50,6 +50,7 @@ The ideal system/utility should be in two parts.
 The first part html/css/js comment ui form (as hugo partial):
 
 * an html form that users would submit their comments with, for a given static site article. It would use vanilla js to post the json response by making a simple http post using fetch, or by a nojs http form submit post from the browser. It would use a form url.
+  * Som
 
 The second part (sh script/nodejs):
 
