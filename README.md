@@ -68,7 +68,7 @@ The second part, should be further seperated into two "subsystems":
 
 It can be done asynchronously. So you do not need to give up privacy, convenience, or money and attention making sure backend servers and subcriptions are up and running! yay! :smiley:
 
-The great part in this concept, is that you can choose the email client of your choice. Setting up your comments this way could make yoube arch & os independent
+The great part in this concept, is that you can choose the email client of your choice. Setting up your comments this way could make you arch & os independent.
 
 ---
 ## :snowflake: Site & node app config options
@@ -76,7 +76,7 @@ The great part in this concept, is that you can choose the email client of your 
 Hugo/Whatever static builder site Config settings:
 
 - email: email@somedomain.tld Use some privacy email forwarding service here such as 33mail
-- method: form-post, service (template, wordpress, google-forms, wix, [hubspot](https://blog.hubspot.com/marketing/html-form-email), [formsubmit](https://formsubmit.co/), [mailthis](https://mailthis.to/), [JotForms](https://www.jotform.com/email-forms/), [Majestic Forms](https://www.majesticform.com/forms/contact-form-free), etc .... )
+- method: form-post-plain, service-template (template, wordpress, google-forms, wix, [hubspot](https://blog.hubspot.com/marketing/html-form-email), [formsubmit](https://formsubmit.co/), [mailthis](https://mailthis.to/), [JotForms](https://www.jotform.com/email-forms/), [Majestic Forms](https://www.majesticform.com/forms/contact-form-free), etc .... ), email-submit
 - pgp-key: your pgp/gpg key to encrypt the commenter's email. If pgp-key is ommited the commenter's email address will be sha512sum hashed. Use of [OpenPGPJs](https://openpgpjs.org/)
 
 Adnotium Yaml Config settings (interface):
@@ -94,7 +94,7 @@ This eventually will be dropped and resolved via https://autoconfig.thunderbird.
 
 incoming-comments: the dir location to save the comments 
 
-accepted-comments: the dir location you move the comments you approve
+accepted-comments: the dir location you move the comments you approve.\
 The accepted comment should be deleted after it has been built into the site
 
 ---
@@ -181,3 +181,4 @@ The accepted comment should be deleted after it has been built into the site
 
 [Email Validation](https://haacked.com/archive/2007/08/21/i-knew-how-to-validate-an-email-address-until-i.aspx/)
 
+[Compose RFC Compliant emails using JS/TS](https://github.com/muratgozel/MIMEText)
