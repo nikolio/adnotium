@@ -177,4 +177,5 @@ The accepted comment should be deleted after it has been built into the site
 
 [Html Sanitizer](https://stackoverflow.com/questions/1637275/simple-html-sanitizer-in-javascript)
 
+[Email Validation](https://haacked.com/archive/2007/08/21/i-knew-how-to-validate-an-email-address-until-i.aspx/)
 
