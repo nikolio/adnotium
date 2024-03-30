@@ -57,7 +57,7 @@ The second part (sh script/nodejs):
 
 Or better called the script/utility, that should:
 * query email creds(user/pass) from an open keepass instance or other secure place.
-* login to an email box, search & download emails, containing the comments from http posted forms
+* login to an email box, search & download emails, containing the comments from received email, or http posted forms
 * sanitize comment and post with hugo or the static site builder of your choice
 
 The second part, should be further seperated into two "subsystems": 
