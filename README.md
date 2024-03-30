@@ -111,9 +111,18 @@ The accepted comment (by-default) should be deleted (both from staging area and 
 [yaml parser with awk](https://unix.stackexchange.com/a/633740)
 
 ### Email comment from client side
+
+[Send email in Javascript](https://stackoverflow.com/a/46415414)
+
 [With VB.NET](https://afterlogic.com/docs/mailbee-net-tutorials/sending-e-mail-messages-smtp/send-a-message-without-smtp-server)
 
 [Sending emails without server](https://stackoverflow.com/a/48852105)
+
+[Resolve domain in JS](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/API/dns/resolve)
+
+[Ditto](https://getbutterfly.com/check-dns-records-in-bulk-using-javascript/)
+
+[Resolve domain in Node](https://blog.adriaan.io/validate-email-addresses-with-mx-records-in-node-js.html)
 
 
 
