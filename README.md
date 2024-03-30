@@ -76,7 +76,7 @@ The great part in this concept, is that you can choose the email client of your 
 Hugo/Whatever static builder site Config settings:
 
 - email: email@somedomain.tld Use some privacy email forwarding service here such as 33mail
-- method: form-post-plain, service-template (custom-template, [Cloudflare-Workers-MailChannels](https://blog.cloudflare.com/sending-email-from-workers-with-mailchannels/), wordpress, google-forms, wix, [hubspot](https://blog.hubspot.com/marketing/html-form-email), [formsubmit](https://formsubmit.co/), [mailthis](https://mailthis.to/), [JotForms](https://www.jotform.com/email-forms/), [Majestic Forms](https://www.majesticform.com/forms/contact-form-free), etc .... ), email-submit
+- method: form-post-plain, service-template (custom-template, [Cloudflare-Workers-MailChannels](https://blog.cloudflare.com/sending-email-from-workers-with-mailchannels/), wordpress, google-forms, wix, [hubspot](https://blog.hubspot.com/marketing/html-form-email), [formsubmit](https://formsubmit.co/), [mailthis](https://mailthis.to/), [JotForms](https://www.jotform.com/email-forms/), [Majestic Forms](https://www.majesticform.com/forms/contact-form-free), [Postmail-Invotes](https://postmail.invotes.com/), etc .... ), email-submit
 - pgp-key: your pgp/gpg key to encrypt the commenter's email. If pgp-key is ommited the commenter's email address will be sha512sum hashed. Use of [OpenPGPJs](https://openpgpjs.org/)
 
 Adnotium Yaml Config settings (interface):
