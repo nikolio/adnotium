@@ -112,7 +112,7 @@ The accepted comment (by-default) should be deleted (both from staging area and 
 
 ### Email comment from client side
 [With VB.NET](https://afterlogic.com/docs/mailbee-net-tutorials/sending-e-mail-messages-smtp/send-a-message-without-smtp-server)
-
+[Sending emails without server](https://stackoverflow.com/a/48852105)
 ### curl and imap
 
 [Curl imap examples](https://busylog.net/test-imap-with-curl-imap-example/)
