@@ -94,9 +94,9 @@ This eventually will be dropped and resolved via https://autoconfig.thunderbird.
 
 incoming-comments: the dir location to save the comments 
 
-accepted-comments: the dir location you move the comments you approve.\
+accepted-comments: the dir location you move the comments you approve. 
 
-The accepted comment (by-default) should be deleted (both from staging area and from server) after it has been built into the site.
+The accepted comment (by-default) should be deleted (both from staging area and from the receiver's email server) after it has been built into the site.
 
 ---
 
