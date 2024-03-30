@@ -51,7 +51,7 @@ The first part html/css/js comment ui form (as hugo partial)an html form that us
 
 * It would use vanilla js to post the json response by making a simple http post using fetch, or by a nojs http form submit post from the browser. It would _require_ a form url to email service for such.
   
-* Sending an email (without using any smtp server) from the browser to the email's destination smtp server. We don't really care if it lands in the spam folder. Use of fingerprinting ip/browser/device/etc to prevent abuse when receiving/filtering, that would be auto discarded if the received message is not abusive. This way we don't need the "cloud"/someone else computer for receiving the comments.
+* Sending an email (without using any smtp server) from the browser to the email's destination smtp server. We don't really care if it lands in the spam folder. Use of fingerprinting ip/browser/device/etc to prevent abuse when receiving/filtering, that would be auto discarded if the received message is not abusive - This would require disclaimer and research on how to be Data Protection Regulation _Compliant_ - . This way we don't need the "cloud"/someone else computer for receiving the comments.
 
 The second part (sh script/nodejs):
 
