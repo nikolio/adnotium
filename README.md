@@ -114,9 +114,23 @@ The accepted comment (by-default) should be deleted (both from staging area and 
 
 [Send email in Javascript](https://stackoverflow.com/a/46415414)
 
+[SMTP Server in TypeScript](https://github.com/typemail/smtp/blob/main/docs/server.md)
+
+[Heredoc Bash smtp email send](https://stackoverflow.com/a/10002000)
+
+[curl send email](https://stackoverflow.com/a/16069786)
+
+[SMTP Server in Node Deprecated](https://nodemailer.com/extras/smtp-server/)
+
+[Sending emails with netcat](https://szclsya.me/posts/net/send-email-with-netcat/)
+
 [With VB.NET](https://afterlogic.com/docs/mailbee-net-tutorials/sending-e-mail-messages-smtp/send-a-message-without-smtp-server)
 
-[Sending emails without server](https://stackoverflow.com/a/48852105)
+[Sending emails without server](https://stackoverflow.com/a/48852105) dig gmail.com MX
+
+[Email with Netcat](https://szclsya.me/posts/net/send-email-with-netcat/)
+
+[Ditto](http://www.allgoodbits.org/articles/view/51)
 
 [Resolve domain in JS](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/API/dns/resolve)
 
@@ -124,6 +138,7 @@ The accepted comment (by-default) should be deleted (both from staging area and 
 
 [Resolve domain in Node](https://blog.adriaan.io/validate-email-addresses-with-mx-records-in-node-js.html)
 
+[Microsoft Test SMTP Server with telnet](https://learn.microsoft.com/en-us/exchange/mail-flow/test-smtp-telnet?view=exchserver-2019)
 
 
 ### curl and imap
@@ -199,3 +214,6 @@ The accepted comment (by-default) should be deleted (both from staging area and 
 [Email Validation](https://haacked.com/archive/2007/08/21/i-knew-how-to-validate-an-email-address-until-i.aspx/)
 
 [Compose RFC Compliant emails using JS/TS](https://github.com/muratgozel/MIMEText)
+
+
+[Good Form Security - no CAPTCHA](https://stackoverflow.com/questions/2603363/good-form-security-no-captcha)
