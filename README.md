@@ -140,6 +140,13 @@ The accepted comment (by-default) should be deleted (both from staging area and 
 
 [Microsoft Test SMTP Server with telnet](https://learn.microsoft.com/en-us/exchange/mail-flow/test-smtp-telnet?view=exchserver-2019)
 
+[SMTP Telnet](https://www.febooti.com/products/automation-workshop/tutorials/test-smtp-connection-send-test-email.html)
+
+[SMTP Send email](https://mailtrap.io/blog/telnet-send-email/)
+
+[Mailgun SMTP Commands](https://www.mailgun.com/blog/deliverability/smtp-commands/)
+
+[IBM Documentation SMTP](https://www.ibm.com/docs/en/zvm/7.3?topic=traces-smtp-commands)
 
 ### curl and imap
 
