@@ -148,6 +148,8 @@ The accepted comment (by-default) should be deleted (both from staging area and 
 
 [IBM Documentation SMTP](https://www.ibm.com/docs/en/zvm/7.3?topic=traces-smtp-commands)
 
+[Signing with gpg](https://www.phildev.net/pgp/gpgsigning.html)
+
 ### curl and imap
 
 [Curl imap examples](https://busylog.net/test-imap-with-curl-imap-example/)
