@@ -144,9 +144,23 @@ The accepted comment (by-default) should be deleted (both from staging area and 
 
 [SMTP Send email](https://mailtrap.io/blog/telnet-send-email/)
 
+[SMTP Abbreviated list of Commands](https://mailtrap.io/blog/smtp-commands-and-responses/)
+
+[Ditto](https://serversmtp.com/smtp-commands/)
+
+[SugarCRM SMTP troubleshooting](https://support.sugarcrm.com/knowledge_base/email/testing_outbound_email_using_command_line/)
+
+[SMTP brief tutorial](https://postmarkapp.com/guides/everything-you-need-to-know-about-smtp)
+
 [Mailgun SMTP Commands](https://www.mailgun.com/blog/deliverability/smtp-commands/)
 
 [IBM Documentation SMTP](https://www.ibm.com/docs/en/zvm/7.3?topic=traces-smtp-commands)
+
+[IBM Documentation SMTP command example](https://www.ibm.com/docs/en/zvm/7.2?topic=interfaces-smtp-command-example)
+
+[IBM Documentation SMTP List of Commands](https://www.ibm.com/docs/en/zvm/7.2?topic=interfaces-smtp-commands)
+
+[IMB Documentation exit command](https://www.ibm.com/docs/en/zvm/7.2?topic=interfaces-using-smtp-command-exit)
 
 [Signing with gpg](https://www.phildev.net/pgp/gpgsigning.html)
 
